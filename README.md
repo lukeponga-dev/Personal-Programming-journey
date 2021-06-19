@@ -50,4 +50,8 @@ public class Solution {
     }
 }
 
-
+## polynomial function										
+>
+> A polynomial function is a function that involves only non-negative integer powers or only positive integer exponents of a variable in an equation like the quadratic equation,
+	cubic equation, etc. For example, 2x+5 is a polynomial that has exponent equal to 1.
+>
