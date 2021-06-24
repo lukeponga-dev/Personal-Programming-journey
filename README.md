@@ -25,5 +25,9 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 > > [PHP Step by Step tutorial](activities/PHP%20-%20Step-by-step%20tutorial/)
 >
 > :open_file_folder: [Projects](/projects/) (my creatations)
+>
+> > [widgetnews php-cms](/Projects\widgetnews%20php-cms/)
 
 > :open_file_folder: [Advanced Programming](/Advanced-Programming/)
+
+- [Books](development_journey/Books)
