@@ -10,7 +10,7 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 
 ## File Structure
 
-> [Resources Folder](/resources/) (pdf etc).
+> :open_file_folder: [Resources Folder](/resources/) (pdf etc).
 >
 > > [1-html&css](/resources/1-html%26css)
 >
@@ -22,10 +22,10 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 >
 > > [5-php](/resources/5-Php)
 
-> [Activities](/activities/) (fun programming projects)
+> :open_file_folder: [Activities](/activities/) (fun programming projects)
 >
 > > [PHP Step by Step tutorial](activities/PHP%20-%20Step-by-step%20tutorial/)
 >
-> [Projects](/projects/) (my creatations)
+> :open_file_folder: [Projects](/projects/) (my creatations)
 
-> [Advanced Programming](/Advanced-Programming/)
+> :open_file_folder: [Advanced Programming](/Advanced-Programming/)
