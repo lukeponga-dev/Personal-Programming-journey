@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="scripts.js"></script>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<p>This loop will break when i = 5</p>
+
+<p id="test"></p>
+<script>
+var text = "";
+var i;
+for (i = 0; i < 15; i++) {
+  if (i === 5) { break; }
+  text += "Number: " + i + "<br>";
+}
+document.getElementById("test").innerHTML = text;
+</script>
+
+
+</body>
+</html>
