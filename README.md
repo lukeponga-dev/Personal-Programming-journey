@@ -6,9 +6,7 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 
 ![Photo of cat](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-:open_file_folder: File Information
-
-## File Structure
+## :open_file_folder: File Structure
 
 > :open_file_folder: [Resources Folder](/resources/) (pdf etc).
 >
