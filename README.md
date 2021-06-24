@@ -29,5 +29,3 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 > :open_file_folder: [Projects](/projects/) (my creatations)
 
 > :open_file_folder: [Advanced Programming](/Advanced-Programming/)
-
-[advanced programming](/advanced-programming/readme.md)
