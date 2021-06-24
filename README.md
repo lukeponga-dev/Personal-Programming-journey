@@ -21,10 +21,11 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 > > [4-Javascript](/resources/4-Javascript)
 >
 > > [5-php](/resources/5-Php)
-> > /////////////////////////////////////////////////////
-> > [Activities](/activities/) (fun programming projects)
+
+> [Activities](/activities/) (fun programming projects)
+>
 > > [PHP Step by Step tutorial](activities/PHP%20-%20Step-by-step%20tutorial/)
-> > ////////////////////////////////////////////////////////
-> > [Projects](/projects/) (my creatations)
+>
+> [Projects](/projects/) (my creatations)
 
 > [Advanced Programming](/Advanced-Programming/)
