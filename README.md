@@ -6,8 +6,7 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 
 ![Photo of cat](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-What's here
-
+:open_file_folder: File Information
 ## File Structure
 
 - Resources Folder for programming pdfs, powerpoints, word docx.
