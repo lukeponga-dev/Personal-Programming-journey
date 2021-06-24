@@ -17,4 +17,8 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
   -   javascript
   -   php
 
-- Activities folder (fun programming projects)
+- Activities (fun programming projects)
+
+- Projects (my creatations)
+
+- Advanced Programming
