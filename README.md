@@ -10,5 +10,11 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 
 ## File Structure
 
-- Resources Folder for programming pdfs, powerpoints, word docx.
-- Activities folder for awesome programming activities.
+- Resources folder (pdf etc).
+  -  html&css
+  -   2-bootstrap
+  -   network
+  -   javascript
+  -   php
+
+- Activities folder (fun programming projects)
