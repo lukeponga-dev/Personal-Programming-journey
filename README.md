@@ -31,3 +31,5 @@ This is my programming journal. Maybe one day i'll turn it into a blog, but gith
 > :open_file_folder: [Advanced Programming](/Advanced-Programming/)
 
 - [Books](development_journey/Books)
+
+<h2>Learning React 1-7-2021</h2>
